@@ -1,4 +1,4 @@
 # Hello-world
 prueba de aprendizaje
-Soy Rafaely estoy aprendiendo a
+Soy Rafael y estoy aprendiendo a computar
 Retomando actividad
